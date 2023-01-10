@@ -1,5 +1,6 @@
 # github-actions-fail
-Hello
+Hello  
 oh no  
-the test does not work
-Taylor
+the test does not work  
+Taylor  
+How could it fail?
